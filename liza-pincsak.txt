@@ -1,0 +1,1 @@
+Ah I think I figured it out. I needed to make it into a txt or some sort of file in order to write anything. 
